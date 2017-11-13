@@ -1,0 +1,12 @@
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\bin\Debug\CPURAMMonitor.exe.config
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\bin\Debug\CPURAMMonitor.exe
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\bin\Debug\CPURAMMonitor.pdb
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\bin\Debug\MetroFramework.dll
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\bin\Debug\MetroFramework.Fonts.dll
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\obj\Debug\CPURAMMonitor.csprojResolveAssemblyReference.cache
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\obj\Debug\CPURAMMonitor.Form1.resources
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\obj\Debug\CPURAMMonitor.Properties.Resources.resources
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\obj\Debug\CPURAMMonitor.csproj.GenerateResource.Cache
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\obj\Debug\CPURAMMonitor.csproj.CoreCompileInputs.cache
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\obj\Debug\CPURAMMonitor.exe
+c:\users\konra\documents\visual studio 2017\Projects\CPURAMMonitor\CPURAMMonitor\obj\Debug\CPURAMMonitor.pdb
